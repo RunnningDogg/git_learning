@@ -1,2 +1,5 @@
 Hi this is a readMe file to learn git.
+<<<<<<< HEAD
 hi there
+=======
+>>>>>>> d86768d (add readme)
